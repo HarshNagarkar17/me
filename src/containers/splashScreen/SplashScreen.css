@@ -12,6 +12,8 @@
 
 .splash-title-container {
   font-size: 2.5rem;
+  width: 100%;
+  text-align: center;
   text-decoration: none;
 }
 .splash-title {
