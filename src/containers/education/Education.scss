@@ -35,7 +35,15 @@
     text-align: center;
   }
 }
-
+@media(max-width:610px){
+  .education-card-container{
+    flex-direction: column !important;
+    gap: 12px;
+  }
+  .education-card-container .education-card-wrapper{
+    width: 100%;
+  }
+}
 @media (max-width: 768px) {
   .education-card-container {
     padding-top: 0px;
