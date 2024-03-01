@@ -37,8 +37,8 @@
 }
 @media(max-width:610px){
   .education-card-container{
+    gap: 14px;
     flex-direction: column !important;
-    gap: 12px;
   }
   .education-card-container .education-card-wrapper{
     width: 100%;
